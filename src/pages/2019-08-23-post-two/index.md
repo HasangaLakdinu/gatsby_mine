@@ -5,3 +5,8 @@ title: "My Second Gatsby Post"
 author: "Karunadasa"
 ---
 
+<<<<<<< HEAD
+=======
+
+hello im checking now
+>>>>>>> hasanga
