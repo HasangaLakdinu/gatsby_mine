@@ -6,10 +6,4 @@ author: "Karunadasa"
 ---
 
 
-This is my very second gaysby hahah!!!!
-this change is done by local
-
-This is my very second gaysby xxxxxxxxxxx hahah!!!!
-
-second in hasa branch
-
+hello im checking now
