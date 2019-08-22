@@ -5,8 +5,10 @@ title: "My Second Gatsby Post"
 author: "Karunadasa"
 ---
 
-<<<<<<< HEAD
-=======
+
 
 hello im checking now
->>>>>>> hasanga
+
+there is going to merge in github
+
+heeiii im lakdinu and im going to merge in github
