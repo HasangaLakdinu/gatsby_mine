@@ -9,10 +9,16 @@ author: "Karunadasa"
 This is my very second gaysby hahah!!!!
 this change is done by local
 
+<<<<<<< HEAD
 this change done using github
 
 This is my very second gaysby xxxxxxxxxxx hahah!!!!
 
 
 hei im again!!!!
+=======
+This is my very second gaysby xxxxxxxxxxx hahah!!!!
+
+second in hasa branch
+>>>>>>> hasanga
 
