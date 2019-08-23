@@ -22,6 +22,14 @@ module.exports = {
         name: 'pages',
       },
     },
+    `gatsby-plugin-catch-links`,
+    {
+      resolve: 'gatsby-source-filesystem',
+      options:{
+        path: `${__dirname}/gatsbyposts`,
+        name: 'pages',
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-plugin-sharp`,
     {

@@ -1,0 +1,3 @@
+[submodule "gatsbyposts"]
+	path = gatsbyposts
+	url = https://github.com/HasangaLakdinu/gatsbyposts.git
